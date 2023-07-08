@@ -24,3 +24,10 @@ at a specific time. Instead, the code was made so that you would have to manuall
 run it in order to tweet out a recommendation and I made it so that if the code was 
 executed multiple times in one day it would make sure not to recommend the same series. 
 
+If I could update the project, I would 
+
+1) Host it on a server so the bot tweets every day
+2) Scrape data from Webtoon to give an actual ranking of where the series stands
+3) Separate the code and functions into separate files, my inexperience with coding when
+   making this project shines through with how it's all in one file. 
+
