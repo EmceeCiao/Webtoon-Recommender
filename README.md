@@ -2,12 +2,13 @@
 
 ## Outdated Label Explanation 
 Since Twitter's Ownership changed a while back, this code is OUTDATED!
-This is because simple_twit API has been rendered no longer functional 
+This is because Tweepy API has been changed 
 as Twitter has changed its free API model to a paid one.
 
 ## Inspiration For Project
 This project was created for a class and the project simply entailed using 
-simple_twit API. Giving students the flexibility to create what they wanted. 
+a limited version of Tweepy API provided to us called simple_twit. 
+Giving students the flexibility to create what they wanted. 
 
 For this project, I decided to create a TwitterBot that would recommend a 
 Webtoon series that updated on that specific day along with a generic genre 
